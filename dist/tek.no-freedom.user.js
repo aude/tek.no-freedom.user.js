@@ -2,7 +2,7 @@
 // @name        Tek.no: freedom
 // @namespace   https://github.com/aude
 // @author      aude
-// @description more free usage
+// @description Tek.no can be a little invasive to our private space. Good thing it's our private space.
 // @include     /^https?://(www\.)?(tek|gamer|teknofil|insidetelecom)\.no(/.*)?$/
 // @domain      tek.no
 // @domain      gamer.no
